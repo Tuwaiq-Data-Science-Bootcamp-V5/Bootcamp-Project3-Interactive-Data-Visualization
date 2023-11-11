@@ -1,9 +1,9 @@
 # Riyadh Real Estate Market Analysis Report
 
 ## Team Members
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
+- Khawlah Hadlag
+- Zayed Alharbi
+- Faisal Alotaibi
 
 ## Introduction
 
@@ -18,10 +18,10 @@ The project aims to analyze the Riyadh real estate market to provide insights fo
 ## Dataset Overview and Source
 
 ### Overview
-The dataset contains information about Riyadh properties, including room count, property age, neighborhood, and pricing.
+The dataset, obtained from Kaggle, contains information about Riyadh properties, including room count, property age, neighborhood, and pricing. It comprises approximately 47,000 records.
 
 ### Source
-Obtained from [Source Name], the dataset comprises [Number] records.
+Obtained from [Kaggle]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar)), the dataset provides a comprehensive view of the Riyadh real estate market.
 
 ## Exploratory Data Analysis
 
@@ -39,19 +39,19 @@ Obtained from [Source Name], the dataset comprises [Number] records.
 ### Additional Insights
 
 #### Basement Presence
-- **Pie Chart:** Distribution of properties with and without basements and its correlation with prices.
+- **Pie Chart:** Distribution of properties with and without basements.
 
 #### Pool Presence
-- **Pie Chart:** Distribution of properties with and without pools and its impact on prices.
+- **Pie Chart:** Distribution of properties with and without pools.
 
 #### Tent Presence
-- **Pie Chart:** Distribution of properties with and without tents and its correlation with prices.
+- **Pie Chart:** Distribution of properties with and without tents.
 
 #### Garage Presence
-- **Pie Chart:** Distribution of properties with and without garages and its influence on prices.
+- **Pie Chart:** Distribution of properties with and without garages.
 
 #### Elevator Presence
-- **Pie Chart:** Distribution of properties with and without elevators and its impact on prices.
+- **Pie Chart:** Distribution of properties with and without elevators.
 
 #### Property Age vs. Avg Square Price Trend
 - **Line Chart:** Trend analysis between property age and average square price.
@@ -71,7 +71,3 @@ Obtained from [Source Name], the dataset comprises [Number] records.
 ## Conclusion
 
 The analysis provides valuable insights for decision-making in the dynamic Riyadh real estate market.
-
-## Acknowledgements
-
-Thanks to [Acknowledged Parties] for their contributions to this project.
