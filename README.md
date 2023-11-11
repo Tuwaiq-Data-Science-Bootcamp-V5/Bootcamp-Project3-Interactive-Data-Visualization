@@ -11,7 +11,7 @@
 The project aims to analyze the Riyadh real estate market to provide insights for potential buyers, sellers, and investors.
 
 ### Objectives
-1. Understand current market trends.
+1. Understand current market.
 2. Identify factors influencing property prices.
 3. Provide actionable insights for stakeholders.
 
@@ -28,10 +28,10 @@ Obtained from [Kaggle]([https://www.kaggle.com/your-dataset-link](https://www.ka
 ### Key Insights
 
 1. **Relationship between Property Features and Price:**
-   - Discuss the correlation between the number of rooms and property prices.
+   - Discuss the correlation between Property Front and property prices.
 
-2. **Impact of Neighborhood on Property Prices:**
-   - Explore how different neighborhoods correlate with property prices.
+2. **Impact of Location on Property Prices:**
+   - Explore how different locations correlate with property prices.
 
 3. **Influence of Property Age on Prices:**
    - Analyze how the age of the property affects its market value.
