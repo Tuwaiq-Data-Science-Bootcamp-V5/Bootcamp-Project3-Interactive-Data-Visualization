@@ -1,29 +1,73 @@
-# 3-Interactive-Data-Visualization
+# Riyadh Real Estate Market Analysis Report
 
-Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn, and Plotly to create a project of your choosing.
+## Team Members
+- Khawlah Hadlag
+- Zayed Alharbi
+- Faisal Alotaibi
 
-This project must at least satisfy the following minimum requirements:
+## Introduction
 
-- Use the following dataset.
-    - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts).
-    - Apply chart format include:
-    - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use the title, x-y labels, font size, figure size, and legends.
-- Create an interactive dashboard using Plotly or Tableau.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-    
-- The Final presentation will be on Sunday.
-- Due Date: Sun, 11 Nov, 3:00 PM.
-Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
+### Problem
+The project aims to analyze the Riyadh real estate market to provide insights for potential buyers, sellers, and investors.
+
+### Objectives
+1. Understand current market.
+2. Identify factors influencing property prices.
+3. Provide actionable insights for stakeholders.
+
+## Dataset Overview and Source
+
+### Overview
+The dataset, obtained from Kaggle, contains information about Riyadh properties, including room count, property age, neighborhood, and pricing. It comprises approximately 47,000 records.
+
+### Source
+Obtained from [Kaggle]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar)), the dataset provides a comprehensive view of the Riyadh real estate market.
+
+## Exploratory Data Analysis
+
+### Key Insights
+
+1. **Relationship between Property Features and Price:**
+   - Discuss the correlation between Property Front and property prices.
+
+2. **Impact of Location on Property Prices:**
+   - Explore how different locations correlate with property prices.
+
+3. **Influence of Property Age on Prices:**
+   - Analyze how the age of the property affects its market value.
+
+### Additional Insights
+
+#### Basement Presence
+- **Pie Chart:** Distribution of properties with and without basements.
+
+#### Pool Presence
+- **Pie Chart:** Distribution of properties with and without pools.
+
+#### Tent Presence
+- **Pie Chart:** Distribution of properties with and without tents.
+
+#### Garage Presence
+- **Pie Chart:** Distribution of properties with and without garages.
+
+#### Elevator Presence
+- **Pie Chart:** Distribution of properties with and without elevators.
+
+#### Property Age vs. Avg Square Price Trend
+- **Line Chart:** Trend analysis between property age and average square price.
+
+#### # of Bathrooms vs. Avg Square Price
+- **Line Charts:** Relationship between the number of bathrooms and average square price.
+
+#### Property Front vs. Avg Square Price
+- **Horizontal Bar Chart:** Average square price based on different property fronts.
+
+#### Districts with Highest Avg Square Price
+- **Bar Chart:** Identify districts with the highest average square prices.
+
+#### Avg Square Price by Location (Bubble Chart)
+- **Bubble Chart:** Visualize average square price for each location.
+
+## Conclusion
+
+The analysis provides valuable insights for decision-making in the dynamic Riyadh real estate market.
