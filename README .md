@@ -44,12 +44,6 @@ Tableau, a powerful data visualization tool, was employed to create informative 
 - Price d5istribution across different areas in Riyadh
 - Comparison of property prices by type and location
 
-
-## Dashboard Link:
-
-https://public.tableau.com/app/profile/nada.almutairi/viz/project3_16996834780160/Dashboard1?publish=yes
-
-
 ## Insights 
 
 - We noticed that the price of propertys in the north of riyadh is too high compared to other regions.
@@ -64,5 +58,16 @@ https://public.tableau.com/app/profile/nada.almutairi/viz/project3_1699683478016
 - Most variable co-related with the price is the Space of the property.
 - When the property age reatchs 25 it is starting to loss value.
 - pools and elevators mostly located in the north od Riyadh.
-
+<br>
+<br>
 <img  src="Dashboard 1.png" hight=600 width=600  >
+
+## Conclusion
+
+By leveraging the power of Plotly and Tableau, we created interactive and informative visualizations. These visualizations provided a deeper understanding of property types, price distributions, and comparisons across different areas in Riyadh. The visual representations allowed us to communicate our findings effectively and support data-driven decision-making.
+
+
+
+### Extirnal links:
+
+[Tableau Link](https://public.tableau.com/app/profile/nada.almutairi/viz/project3_16996834780160/Dashboard1?publish=yes)
