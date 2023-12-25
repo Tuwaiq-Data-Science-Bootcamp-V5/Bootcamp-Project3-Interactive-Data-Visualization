@@ -60,7 +60,7 @@ Tableau, a powerful data visualization tool, was employed to create informative 
 - pools and elevators mostly located in the north od Riyadh.
 <br>
 <br>
-<img  src="Dashboard .png" hight=600 width=600  >
+<img  src="Dashboard .png" hight=800 width=800  >
 
 ## Conclusion
 
